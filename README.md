@@ -3,6 +3,8 @@ PurplePikachu.com
 
 PurplePikachu.com is a Django-powered web site for an upcoming Pokemon fan-game. It is currently being developed by Tanner Evins and Michael Todd.
 
+The [repo for the game](https://github.com/evinstk/PurplePikachu.git) is also hosted on GitHub.
+
 Dependencies
 ------------
 Since Django is a Python web framework, the deployed site uses [virtualenv](https://pypi.python.org/pypi/virtualenv) and [pip](https://pypi.python.org/pypi/pip) (installed automatically with virtualenv) to manage dependencies. The file `requirements.txt` is produced with the command `pip freeze` and contains all the dependencies of this project.
